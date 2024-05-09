@@ -1,0 +1,35 @@
+commit 40d6bc4a16c72795edbe0bb301b55b39430f371e
+Author: roserunyan <roserunyan@gmail.com>
+Date:   Fri May 3 16:06:39 2024 -0400
+
+    added gitignore again
+
+commit 8a1331f33fbba0420a18edc9188a19aa17ae3f4b
+Author: roserunyan <roserunyan@gmail.com>
+Date:   Fri May 3 16:02:20 2024 -0400
+
+    added gitignore
+
+commit 7a3ea5f86487fd41d7a4708bb1c48a35f2c382d6
+Author: roserunyan <roserunyan@gmail.com>
+Date:   Fri May 3 15:46:16 2024 -0400
+
+    added two files
+
+commit 85e07de2808bd2531b6e1bc29b4b098522005da2
+Author: roserunyan <roserunyan@gmail.com>
+Date:   Fri May 3 15:41:06 2024 -0400
+
+    added readme.txt
+
+commit 04b2c7256dde46c35c9b56e70748c5ff100426ef
+Author: roserunyan <roserunyan@gmail.com>
+Date:   Fri Mar 29 18:29:00 2024 -0400
+
+    added two files
+
+commit bf852b060d2129f56d1586c47a0aa7c77bbcdff6
+Author: roserunyan <roserunyan@gmail.com>
+Date:   Fri Mar 29 18:25:10 2024 -0400
+
+    added readme.txt
