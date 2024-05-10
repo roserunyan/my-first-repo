@@ -1,30 +1,22 @@
-# This is a large heading
+# Rose Runyan
 
-## This is a smaller heading
+###Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Frederick, in the state of Maryland, in the United States of America.
 
-- This is
-- an unordered
-- list
+###Video Games
 
-1. This is
-2. an ordered
-3. list
+Three of my favorite video games are:
+- *Minecraft*
+- *Portal 2*
+- Anything *Kirby*
 
-Here is `some code` in the middle of a sentence.
+### Food
 
-```
-This is
-a block
-of code
-```
+Last night I dreamt about eating in these restaurants:
+1. Hell's Kitchen in Washington, D.C.
+2. Monalu in Frederick, MD
+3. Silver Diner in anywhere
 
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
-
-nano README.md
+### Contact
+The best way to get in touch with me is [on LinkedIn](https://www.linkedin.com/in/rose-runyan-380472228)
